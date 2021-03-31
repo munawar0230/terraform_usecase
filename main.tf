@@ -1,7 +1,7 @@
 provider "aws" {
 region = "us-east-1"
-access_key = "AKIAJU53QYV7XAVES2GQ"
-secret_key = "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"
+access_key = **************************
+secret_key = *************************
 }
 module "ec2_webserver" {
     source = "/Users/munawar/Desktop/Terraform Project/modules/muna_ec2"
